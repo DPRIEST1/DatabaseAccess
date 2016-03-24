@@ -1,0 +1,5 @@
+C:\Users\Daniel Priest\Documents\Visual Studio 2015\Projects\DatabaseAccess\DatabaseAccess\bin\Debug\DatabaseAccess.dll
+C:\Users\Daniel Priest\Documents\Visual Studio 2015\Projects\DatabaseAccess\DatabaseAccess\bin\Debug\DatabaseAccess.pdb
+C:\Users\Daniel Priest\Documents\Visual Studio 2015\Projects\DatabaseAccess\DatabaseAccess\obj\Debug\DatabaseAccess.dll
+C:\Users\Daniel Priest\Documents\Visual Studio 2015\Projects\DatabaseAccess\DatabaseAccess\obj\Debug\DatabaseAccess.pdb
+C:\Users\Daniel Priest\Documents\Visual Studio 2015\Projects\DatabaseAccess\DatabaseAccess\obj\Debug\DatabaseAccess.csprojResolveAssemblyReference.cache
